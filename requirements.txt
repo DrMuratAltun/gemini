@@ -1,0 +1,6 @@
+streamlit
+google-generativeai
+markdown
+python-docx
+beautifulsoup4
+PyPDF2
